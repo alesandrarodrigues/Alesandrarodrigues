@@ -2,8 +2,16 @@
 
 Meus nome é Alesandra Rodrigues
 
--Estou estudando na Alura 
--Estou me desenvolvendo na lingua JavaScript
--Utilizo esse espaço para minha organixação ecompartilhamento dos meus projetos desenvolvidos
+-Atualmente moro no Cruzeiro do Iguaço
+-Estudo no Cedab
+-Estou no ensino médio
+-Moro com meus pais
+-Gosto de comer e dormir
+-Gosto de ficar perto de quem amo
+-Não gosto muito de estudar
+-tenho disciplinas novas este ano
+-Sou muito paciente
+-Sou determinada
+
 
 ### vocẽ entrar em contato comigo 📫
